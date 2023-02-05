@@ -1,9 +1,9 @@
 import React from 'react';
-import Layout from '../components/Layout';
-import products from '../utils/products.json';
+import Layout from '../../components/layout/Layout';
+import products from '../../utils/products.json';
 import './Product.css';
 import { connect } from 'react-redux';
-import { addToCart } from '../redux/actions/cart';
+import { addToCart } from '../../redux/cart/cartActions';
 
 class Product extends React.Component {
     constructor(props) {
@@ -62,6 +62,7 @@ class Product extends React.Component {
                             <p><span className="font-weight-bold">Culoare</span>: {product.colour}</p>
                             <p><span className="font-weight-bold">Material</span>: {product.material}</p>
                             <p><span className="font-weight-bold">Brand</span>: {product.brand}</p>
+                            <p><span className="font-weight-bold">Stil</span>: {product.style}</p>
                             <p className="font-weight-bold mb-1">Descriere:</p>
                             <p>{product.description}</p>
                         </div>

@@ -11,6 +11,7 @@
                 "colour": "Negru",
                 "material": "Piele",
                 "brand": "Massimo Dutti",
+                "style": "Casual",
                 "description": "Sneakerși din piele cu talpă inițial albă, din colecția de toamnă-iarnă 2019, Massimo Dutti."
             },
             {
@@ -23,6 +24,7 @@
                 "colour": "Negru",
                 "material": "Pânză",
                 "brand": "Polo Ralph Lauren",
+                "style": "Casual",
                 "description": "Teniși din pânză cu talpă inițial albă, din colecția de primăvară-vară 2019, Fashion Days."
             },
             {
@@ -35,6 +37,7 @@
                 "colour": "Maro",
                 "material": "Piele",
                 "brand": "Massimo Dutti",
+                "style": "Casual",
                 "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
             }
         ],
@@ -54,6 +57,7 @@
                 "colour": "Maro",
                 "material": "Cașmir",
                 "brand": "DS Damat",
+                "style": "Casual",
                 "description": "Pulovăr din cașmir, slim fit, colecția toamnă-iarnă 2019, DS Damat."
             },
             {
@@ -66,6 +70,7 @@
                 "colour": "Multicolor",
                 "material": "Bumbac",
                 "brand": "McNeal",
+                "style": "Casual",
                 "description": "Pulovăr multicolor, colecția toamnă-iarnă 209, McNeal."
             },
             {
@@ -78,6 +83,7 @@
                 "colour": "Multicolor",
                 "material": "Lână",
                 "brand": "SELECTED",
+                "style": "Casual",
                 "description": "Pulovăr din lână, în carouri, colecția toamnă-iarnă 2019, SELECTED."
             },
             {
@@ -90,6 +96,7 @@
                 "colour": "Crem",
                 "material": "Lână",
                 "brand": "Massimo Dutti",
+                "style": "Casual",
                 "description": "Pulovăr din lână cu model, colecția toamnă-iarnă 2019, Massimo Dutti."
             }
         ],
@@ -109,6 +116,7 @@
                 "colour": "Bleumarin închis",
                 "material": "Blug",
                 "brand": "DS Damat",
+                "style": "Casual",
                 "description": "Blugi bleumarin, slim fit, colecția primăvară-vară 2019, DS Damat."
             },
             {
@@ -121,6 +129,7 @@
                 "colour": "Negru-gri",
                 "material": "Blug",
                 "brand": "DS Damat",
+                "style": "Casual",
                 "description": "Blugi negri, slim fit, colecția toamnă-iarnă 2019, DS Damat."
             }
         ],
@@ -140,6 +149,7 @@
                 "colour": "Gri închis",
                 "material": "Lână virgină",
                 "brand": "Peek and Cloppenburg",
+                "style": "Casual",
                 "description": "Haină lungă din lână virgină, colecția toamnă-iarnă 2018, Peek and Cloppenburg."
             },
             {
@@ -152,6 +162,7 @@
                 "colour": "Bleumarin",
                 "material": "Poliester",
                 "brand": "DS Damat",
+                "style": "Casual",
                 "description": "Geacă bleumarin cu glugă detașabilă, colecția toamnă-iarnă 2019, DS Damat."
             }
         ],
@@ -171,6 +182,7 @@
                 "colour": "Multicolor",
                 "material": "Bumbac",
                 "brand": "Lacoste",
+                "style": "Casual",
                 "description": "Tricou în dungi, colecția primăvară-vară 2019, Lacoste."
             },
             {
@@ -183,6 +195,7 @@
                 "colour": "Roșu",
                 "material": "Poliester",
                 "brand": "Li Ning",
+                "style": "Casual",
                 "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
             },
             {
@@ -195,6 +208,7 @@
                 "colour": "Galben-Negru",
                 "material": "Poliester",
                 "brand": "Puma",
+                "style": "Casual",
                 "description": "Tricoul purtat de Borussia Dortmund în sezonul competițional 2018-2019, cu numarul 7 și numele 'SANCHO'. Tricoul este semnat de portarul Borussiei, Roman Burki."
             }
         ],
@@ -214,6 +228,7 @@
                 "colour": "Gri-Bleumarin",
                 "material": "Cașmir",
                 "brand": "Trussardi Jeans",
+                "style": "Casual",
                 "description": "Fular cu imprimeu, din colecția toamnă-iarnă 2018, Trussardi Jeans."
             },
             {
@@ -226,11 +241,43 @@
                 "colour": "Negru",
                 "material": "Piele",
                 "brand": "DS Damat",
+                "style": "Casual",
                 "description": "Mănuși din piele, cu model, din colecția toamnă-iarnă 2018, DS Damat."
             }
         ],
         "image": "https://i.imgur.com/qw3wDj8.jpg",
         "name": "Accesorii",
         "description": "Fulare, căciuli, mănuși: nu mai sta pe gânduri, cumpără-le acuși!"
+    },
+    "hats":{
+        "items":[{
+            "id": 17,
+            "name": "Sapca Super Mario",
+            "price": 799.99,
+            "currency": "LEI",
+            "image": "https://img.eobuwie.cloud/eob_product_1800w_1800h(a/9/d/d/a9dd9c880b0b66d7ba1fca7d40ec289b6f130613_3614001112043_0283.jpg,webp)/sapca-capslab-super-mario-cl-smb-1-mar2-negru.webp",
+            "size": "Universal",
+            "colour": "Rosu",
+            "material": "Cașmir",
+            "brand": "Mario Style",
+            "style": "Casual",
+            "description": "Sapca super Mario rosie. Iesi in evidenta in orice imprejurare."
+        },
+        {
+            "id": 18,
+            "name": "Sapca de piele",
+            "price": 1099.98,
+            "currency": "LEI",
+            "image": "https://eu-images.contentstack.com/v3/assets/blt7dcd2cfbc90d45de/blt1a79fa1600e30edf/60dc22fb63584e0ecae5dde9/18016_3.jpg?format=pjpg&auto=webp&quality=75%2C90&width=640",
+            "size": "L",
+            "colour": "Maro",
+            "material": "Piele",
+            "brand": "DS Damat",
+            "style": "Casual",
+            "description": "Sapca de piele din colectia Toamna 2020"
+        }],
+        "image": "https://i.imgur.com/MHU84dL.jpeg",
+        "name": "Palarii",
+        "description": "Palarii perfecte pentru orice activitate!"
     }
 }
